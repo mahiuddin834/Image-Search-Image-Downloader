@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543507382389",
+    "project_id": "image-search-d3513",
+    "storage_bucket": "image-search-d3513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543507382389:android:4a8031ed67ccf46339383c",
+        "android_client_info": {
+          "package_name": "com.itnation.imagesearch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKN2V5alUNro26qb3HwUhmCzG7yvpeJ4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
